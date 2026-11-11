@@ -14,17 +14,17 @@ Women with PCOS are more likely to have lower serum magnesium levels, and lower 
 ### Why Magnesium Matters for PCOS
 PCOS affects roughly 1 in 10 women worldwide and is linked to insulin resistance - where the body does not respond properly to insulin. Magnesium is involved in over 300 enzymatic reactions in the body, including many involved in glucose metabolism.
 
-A 2021 study of 1,000 women with PCOS published in Frontiers in Endocrinology (PMID: 34248844) found that women with higher serum magnesium had significantly lower fasting glucose, lower insulin resistance (HOMA-IR), and lower testosterone levels.
+A 2021 study of 1,000 women with PCOS published in Frontiers in Endocrinology (Luo et al., PMID: 34248844) found that women with higher serum magnesium had significantly lower fasting glucose, lower insulin resistance (HOMA-IR), and lower testosterone levels.
 
 ### What the Studies Show
 **Observational evidence (strong):**
-- A 2019 review in Current Developments in Nutrition (PMID: 31696157) examined 7 studies and found a consistent relationship between low serum magnesium and insulin resistance in women with PCOS
+- A 2019 review in Current Developments in Nutrition (Hamilton et al., PMID: 31696157) examined 7 studies and found a consistent relationship between low serum magnesium and insulin resistance in women with PCOS
 - Women with PCOS are more likely to underconsume magnesium-rich foods
 - Lower serum magnesium is associated with higher testosterone levels
 
 **Supplementation trials (mixed):**
-- A 2023 randomized controlled trial of 64 women with PCOS (PMID: 36620514) found magnesium supplementation alone had no significant effect on hyperandrogenism, hirsutism, or sleep quality
-- A 2022 systematic review of 9 RCTs (363 women) (PMID: 35992132) found magnesium alone did not significantly improve inflammation, oxidative stress, or metabolic markers in PCOS
+- A 2023 randomized controlled trial of 64 women with PCOS (Gholizadeh-Moghaddam et al., PMID: 36620514) found magnesium supplementation alone had no significant effect on hyperandrogenism, hirsutism, or sleep quality
+- A 2022 systematic review of 9 RCTs (363 women) (Li et al., PMID: 35992132) found magnesium alone did not significantly improve inflammation, oxidative stress, or metabolic markers in PCOS
 - However, magnesium combined with vitamin E, zinc, or zinc-calcium-vitamin D significantly improved glucose and lipid metabolism
 
 ### What This Means
